@@ -1,4 +1,4 @@
-# Popular_wines_reviews
+# Popular_wine_reviews (ETL-project)
 Extracting, Transforming, and Loading data:
 
 Extraction:
